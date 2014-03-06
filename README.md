@@ -1,4 +1,3 @@
-nyx-cal
-=======
+## NyxCal
 
-A self hosted calendar app.
+A self-hosted calendar app built on rails and javascript.
