@@ -33,6 +33,7 @@ group :doc do
 end
 
 group :development, :test do
+  gem 'minitest', '~> 4.7.5'
   gem 'rspec-rails', '~> 3.0.0.beta'
   gem 'capybara'
   gem 'selenium'

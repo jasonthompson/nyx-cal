@@ -149,6 +149,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
+  minitest (~> 4.7.5)
   rails (= 4.0.3)
   rspec-rails (~> 3.0.0.beta)
   sass-rails (~> 4.0.0)
